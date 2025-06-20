@@ -1,0 +1,4 @@
+$ ollama run mistral
+>>> Generate an image of a futuristic cityscape at sunset.
+
+# Output: See /output/description of a futuristic cityscape at sunset.txt
